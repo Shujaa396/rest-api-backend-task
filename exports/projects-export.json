@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "6865118eac81c4801ca22d31",
+    "title": "Frontend Web UI",
+    "description": "Need a React UI for an admin dashboard",
+    "techStack": [
+      "React",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "estimatedBudget": 600,
+    "userId": "6864ddc1a723795a062356a8",
+    "status": "open",
+    "createdAt": "2025-07-02T11:01:34.425Z",
+    "updatedAt": "2025-07-02T11:01:34.425Z",
+    "__v": 0
+  },
+  {
+    "_id": "6865119dac81c4801ca22d33",
+    "title": "Frontend Web UI",
+    "description": "Need a React UI for an admin dashboard",
+    "techStack": [
+      "React",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "estimatedBudget": 600,
+    "userId": "6864ddc1a723795a062356a8",
+    "status": "open",
+    "createdAt": "2025-07-02T11:01:49.226Z",
+    "updatedAt": "2025-07-02T11:01:49.226Z",
+    "__v": 0
+  }
+]
