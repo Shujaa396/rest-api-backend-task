@@ -60,20 +60,13 @@ backend-rest-api-task/
 
 ## 📦 Setup Instructions
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Shujaa396/backend-rest-api-task.git
-cd backend-rest-api-task
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Add Environment Variables
+### 2. Add Environment Variables
 
 Create a `.env` file in the root folder:
 
@@ -85,7 +78,7 @@ PORT=5000
 
 > Replace the placeholders with your actual credentials.
 
-### 4. Start the Server
+### 3. Start the Server
 
 ```bash
 npm run dev
